@@ -12,12 +12,19 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Custom CSS for a professional look
+# Custom CSS that respects both Light and Dark modes
 st.markdown("""
     <style>
-    .main { background-color: #F8F9FA; }
-    h1, h2, h3 { color: #2C3E50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
-    .stMetric { background-color: #FFFFFF; padding: 15px; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+    /* Let Streamlit handle the background and text colors automatically using its variables */
+    h1, h2, h3 { 
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    }
+    .stMetric { 
+        background-color: var(--secondary-background-color); 
+        padding: 15px; 
+        border-radius: 5px; 
+        box-shadow: 0 2px 4px rgba(0,0,0,0.2); 
+    }
     </style>
     """, unsafe_allow_html=True)
 
@@ -162,4 +169,5 @@ st.dataframe(
     hard_spots_df[['Class', 'Subject', 'LO Code', 'District (Alirajpur)', 'State Average', 'Gap_from_State']].head(10).style.background_gradient(cmap='Reds', subset=['District (Alirajpur)']),
     use_container_width=True,
     hide_index=True
+
 )
