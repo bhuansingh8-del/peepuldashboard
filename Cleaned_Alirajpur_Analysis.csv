@@ -1,0 +1,100 @@
+Class,Subject,LO Code,LO,District (Alirajpur),State Average,National Average,Gap_from_State,Gap_from_National
+3,Language ,L304,"Reads small texts with comprehension i.e., identifies main ideas, details,sequence and draws conclusions",58.0,68.0,64,-10.0,-6.0
+3,Language ,L312,"Reads printed scripts on the classroom walls: poems, posters, charts etc.",52.0,62.0,58,-10.0,-6.0
+5,Language ,L508,"Reads text with comprehension, locates details and sequence of events",50.0,59.0,55,-9.0,-5.0
+8,Language ,L813,"Read textual/non-textual materials with comprehension and identifies the details, characters, main idea and sequence of ideas and events while reading",43.0,55.0,53,-12.0,-10.0
+3,Language ,M301,Reads and writes numbers up to 999 using place value,36.0,46.0,45,-10.0,-9.0
+3,Language ,M302,Compares numbers up to 999 based on their place values,68.0,74.0,70,-6.0,-2.0
+3,Language ,M303,Solves simple daily life problems using addition and subtraction of three digit numbers with and without regrouping,53.0,57.0,53,-4.0,0.0
+3,Language ,M304,Constructs and uses the multiplication facts (up till 10) in daily life situations,55.0,66.0,61,-11.0,-6.0
+3,Language ,M305,Analyses and applies an appropriate number operation in the situation/ context,47.0,56.0,53,-9.0,-6.0
+3,Language ,M306,Explains the meaning of division facts by equal grouping/sharing and finds it by repeated subtraction,44.0,50.0,47,-6.0,-3.0
+3,Language ,M309,"Identifies and makes 2D-shapes by paper folding. paper cutting on the dot grid, using straight lines etc.",29.0,41.0,43,-12.0,-14.0
+3,Language ,M311,Fills a given region leaving no gaps using a tile of a given shape,53.0,61.0,56,-8.0,-3.0
+5,Language ,M412,"Explores the area and perimeter of simple geometrical shapes (triangle, rectangle, square) in terms of given shape as a unit",32.0,39.0,36,-7.0,-4.0
+5,Language ,M418,Calculates time intervals/duration of familiar daily life events by using forward or backward counting/addition and subtraction,47.0,52.0,47,-5.0,0.0
+5,Language ,M421,Represent the collected information in tables and bar graphs and draws inferences from these,39.0,48.0,42,-9.0,-3.0
+5,Language ,M501,Reads and writes numbers bigger than 1000 being used in her/his surroundings,50.0,59.0,55,-9.0,-5.0
+5,Language ,M504,"Estimates sum, difference, product and quotient of numbers and verifies the same using different strategies like using standard algorithms or breaking a number and then using operation",40.0,49.0,46,-9.0,-6.0
+5,Language ,M505,Finds the number corresponding to part of a collection,51.0,60.0,55,-9.0,-4.0
+5,Language ,M506,Identifies and forms equivalent fractions of a given fraction,31.0,42.0,38,-11.0,-7.0
+5,Language ,M508,Converts fractions into decimals and vice versa,44.0,49.0,43,-5.0,1.0
+5,Language ,M512,"Relates different commonly used larger and smaller units of length, weight and volume and converts larger units to smaller units and vice versa",33.0,41.0,38,-8.0,-5.0
+5,Language ,M513,Estimates the volume of a solid body in known units.,38.0,45.0,41,-7.0,-3.0
+5,Language ,M514,"Applies the four fundamental arithmetic operations in solving problems involving money, length, mass, capacity and time intervals",41.0,51.0,43,-10.0,-2.0
+5,Language ,M515,Identifies the pattern in triangular numbers and square number,41.0,50.0,46,-9.0,-5.0
+8,Language ,M601,Solves problems involving large numbers by applying appropriate operations,37.0,54.0,49,-17.0,-12.0
+8,Language ,M606,Solves problems on daily life situations involving addition and subtraction of fractions / decimals,36.0,52.0,48,-16.0,-12.0
+8,Language ,M620,"Finds out the perimeter and area of rectangular objects in the surroundings like floor of the class room, surfaces of a chalk box etc.",24.0,33.0,29,-9.0,-5.0
+8,Language ,M621,"Arranges given/collected information in the form of table, pictograph and bar graph and interprets them",33.0,44.0,41,-11.0,-8.0
+8,Language ,M702,Interprets the division and multiplication of fractions,33.0,37.0,34,-4.0,-1.0
+8,Language ,M705,Solves problems related to daily life situations involving rational numbers,17.0,26.0,23,-9.0,-6.0
+8,Language ,M707,Adds/subtracts algebraic expressions,36.0,43.0,38,-7.0,-2.0
+8,Language ,M710,Solves problems related to conversion of percentage to fraction and decimal and vice versa,31.0,39.0,30,-8.0,1.0
+8,Language ,M717,Finds out approximate area of closed shapes by using unit square grid/graph sheet,34.0,36.0,34,-2.0,0.0
+8,Language ,M721,Interprets data using bar graph such as consumption of electricity is more in winters than summer,34.0,41.0,37,-7.0,-3.0
+8,Language ,M801,"Generalizes properties of addition, subtraction, multiplication and division of rational numbers through patterns",27.0,36.0,34,-9.0,-7.0
+8,Language ,M802,Finds rational numbers between two given rational numbers,38.0,49.0,40,-11.0,-2.0
+8,Language ,M803,"Proves divisibility rules of 2, 3,4, 5, 6, 9 and 11",34.0,47.0,43,-13.0,-9.0
+8,Language ,M804,"Finds squares,cubes,square roots and cube roots of numbers using different methods",39.0,42.0,34,-3.0,5.0
+8,Language ,M808,uses various algebric identities in solving problem of daily life.,39.0,47.0,42,-8.0,-3.0
+8,Language ,M812,Verifies properties of parallelogram and establishes the relationship between them through reasoning,32.0,41.0,39,-9.0,-7.0
+8,Language ,M818,Find surface area and volume of cuboidal and cylindrical object,32.0,38.0,30,-6.0,2.0
+8,Language ,M819,Draws and interprets bar charts and pie charts,26.0,33.0,30,-7.0,-4.0
+3,EVS,EVS302,"Identifies simple features (e.g. movement, at places found/ kept, eating habits, sounds) of animals and birds in the immediate surroundings.",56.0,64.0,62,-8.0,-6.0
+3,EVS,EVS303,Identifies relationships with and among family members,45.0,53.0,51,-8.0,-6.0
+3,EVS,EVS304,"Identifies objects, signs (vessels, stoves, transport, means of communication, transport, signboards etc.), places (types of houses/shelters, bus stand, petrol pump etc.) activities (works people do, cooking processes, etc.) at home/school/ neighborhoods",59.0,69.0,65,-10.0,-6.0
+3,EVS,EVS305,"Describes need of food for people of different age groups, animals/birds, availability of food and water and use of water at home and surroundings.",45.0,55.0,52,-10.0,-7.0
+3,EVS,EVS307,"Groups objects, birds, animals, features, activities according to differences/ similarities using different senses. (e.g. appearance/place of living/ food/ movement/ likes-dislikes/ any other features)",59.777778,69.0,63,-9.222222000000002,-3.222222000000002
+3,EVS,EVS309,"Identifies directions, location of objects/places in simple maps using signs/symbols/ verbally",55.0,70.0,66,-15.0,-11.0
+3,EVS,EVS310,"Guesses properties, estimates quantities of materials/activities in daily life and verifies using symbols/non-standard units",64.0,72.0,67,-8.0,-3.0
+3,EVS,EVS311,"Records observations, experiences, information on objects/activities/places visited in different ways and predicts patterns etc",47.0,59.0,54,-12.0,-7.0
+3,EVS,EVS313,"Observes rules in games (local, indoor, outdoor)",35.0,46.0,43,-11.0,-8.0
+3,EVS,EVS314,"Voices opinion on good/bad touch , stereotypes for tasks/play/food in family w.r.t gender, misuse/wastage of food and water in family and school.",58.0,68.0,63,-10.0,-5.0
+5,EVS,EVS403,Identifies relationship with and among family members in extended family,42.0,53.0,50,-11.0,-8.0
+5,EVS,EVS410,"Records observations/experiences/information for objects, activities, phenomena, places visited in different ways and predicts patterns and activities/ phenomena",49.0,56.0,50,-7.0,-1.0
+5,EVS,EVS501,"Explains the super senses and unusual features (sight, smell, hear, sleep, sound, etc.) of animals and their responses to light, sound, food etc.",41.0,51.0,45,-10.0,-4.0
+5,EVS,EVS503,"Describes the interdependence among animals, plants and humans",41.0,54.0,50,-13.0,-9.0
+5,EVS,EVS504,"Explains the role and functions of different institutions in daily life (Bank, Panchayat, cooperatives. police station, etc.)",48.0,53.0,48,-5.0,0.0
+5,EVS,EVS505,"Establishes linkages among terrain, climate, resources (food, water, shelter, livelihood) and cultural life. (e.g. life in distant/difficult areas like hot/cold deserts)",45.0,53.0,48,-8.0,-3.0
+5,EVS,EVS506,"Groups objects, materials, activities for features/properties such as shape, taste, color , texture, sound, traits etc.",44.0,54.0,48,-10.0,-4.0
+5,EVS,EVS507,"Traces the changes in practices, customs, techniques of past and present through coins, paintings, monuments, museum etc. and interacting with elders",48.0,53.0,47,-5.0,1.0
+5,EVS,EVS508,"Guesses (properties, conditions of phenomena), estimates spatial quantities (distance, area, volume, weight etc. ) and time in simple standard units and verifies using simple tools/set ups",52.0,57.0,48,-5.0,4.0
+5,EVS,EVS509,"Records observations/experiences/information in an organized manner (e.g. in tables/ sketches/ bar graphs/ pie charts) and predicts patterns in activities/ phenomena (e.g. floating, sinking, mixing, evaporation , germination, spoilage) to establish relation between cause and effect.",48.0,60.0,55,-12.0,-7.0
+5,EVS,EVS510,"Identifies signs, directions, location of different objects/landmarks of a locality / place visited in maps and predicts directions w.r.t. positions at different places for a location",42.0,46.0,45,-4.0,-3.0
+5,EVS,EVS512,Voices opinions on issues observed/experienced and relates practices/happenings to larger issues of society,50.0,59.0,54,-9.0,-4.0
+5,EVS,EVS513,"Suggests ways for hygiene, health, managing waste. disaster/emergency situations and protecting/saving resources",38.0,40.0,35,-2.0,3.0
+8,EVS,SST605,"Identifies latitudes and longitudes, e.g., poles, equator, tropics, States /Ws of India and other neighboring countries on globe and the world map",38.0,43.0,40,-5.0,-2.0
+8,EVS,SST610,"Locates important historical sites, places on an outline map of India.",22.0,29.0,26,-7.0,-4.0
+8,EVS,SST625,Describes the functioning of rural and urban local government bodies in sectors like health and education,34.0,37.0,35,-3.0,-1.0
+8,EVS,SST703,Explains preventive actions to be undertaken in the event of disasters,48.0,56.0,46,-8.0,2.0
+8,EVS,SST704,Describes formation of landforms due to various factors,39.0,44.0,44,-5.0,-5.0
+8,EVS,SST722,Explains the significance of equality in democracy,34.0,42.0,39,-8.0,-5.0
+8,EVS,SST726,Describes the process of election to the legislative assembly,51.0,49.0,42,2.0,9.0
+8,EVS,SST731,Explains the functioning of media with appropriate examples from newspapers,45.0,60.0,56,-15.0,-11.0
+8,EVS,SST733,Differentiates between different kinds of markets,38.0,42.0,38,-4.0,0.0
+8,EVS,SST734,Traces how goods travel through various market places,34.0,46.0,41,-12.0,-7.0
+8,EVS,SST802,"Describes major crops, types of farming and agricultural practices in her/his own areaistate",37.0,41.0,39,-4.0,-2.0
+8,EVS,SST805,Locates distribution of important minerals e.g. coal and mineral oil on the world map,28.0,29.0,28,-1.0,0.0
+8,EVS,SST807,Justifies judicious use of natural resources,35.0,41.0,37,-6.0,-2.0
+8,EVS,SST809,Draws interrelationship between types of farming and development in different regions of the world,37.0,36.0,36,1.0,1.0
+8,EVS,SST810,Distinguishes the modern period from the medieval and the ancient periods through the use of sources,23.0,31.0,28,-8.0,-5.0
+8,EVS,SST815,"Explains the origin, nature and spread of the revolt of 1857 and the lessons learned from it.",27.0,30.0,33,-3.0,-6.0
+8,EVS,SST816,Analyses the decline of pre-existing urban centers and handicraft industries and the development of new urban centers and industries in India during the colonial period,22.0,27.0,27,-5.0,-5.0
+8,EVS,SST818,"Analyses the issues related to caste, women, widow remarriage, child marriage, social reforms and the laws and policies of colonial administration towards these issues",37.0,46.0,44,-9.0,-7.0
+8,EVS,SST823,Applies the knowledge of the Fundamental Rights to find out about their violation. protection and promotion in a given situation,20.0,27.0,29,-7.0,-9.0
+8,EVS,SST827,"Describes the process of making a law. (e.g. Domestic Violence Act, RTI Act, RTE Act)",37.0,39.0,36,-2.0,1.0
+8,EVS,SST831,"Identifies the role of Government in providing public facilities such as water, sanitation, road, electricity etc, and recognizes their availability",41.0,43.0,37,-2.0,4.0
+8,EVS,SST833,Draws bar diagram to show population of different countries/India/states,54.0,63.0,61,-9.0,-7.0
+8,Science,SCI703,Classifies materials and organisms based on properties/characteristics,35.0,41.0,39,-6.0,-4.0
+8,Science,SCI704,Conducts simple investigation to seek answers to queries,29.0,39.0,37,-10.0,-8.0
+8,Science,SCI705,Relates processes and phenomenon with causes,34.0,46.0,45,-12.0,-11.0
+8,Science,SCI708,"Measures and calculates e.g.. temperature; pulse rate; speed of moving objects; time period of a simple pendulum, etc.",38.0,47.0,43,-9.0,-5.0
+8,Science,SCI710,Plots and interprets graphs,28.0,36.0,35,-8.0,-7.0
+8,Science,SCI711,Constructs models using materials from surroundings and explains their working,24.0,26.0,26,-2.0,-2.0
+8,Science,SCI801,"Differentiates materials, organism and processes",41.0,48.0,46,-7.0,-5.0
+8,Science,SCI804,Relates processes and phenomenon with causes,33.0,36.0,34,-3.0,-1.0
+8,Science,SCI805,Explains processes and phenomenon,25.0,36.0,36,-11.0,-11.0
+8,Science,SCI807,"Measures angles of incidence and reflection, etc.",33.0,36.0,34,-3.0,-1.0
+8,Science,SCI811,Applies learning of scientific concepts in day-to-day life,40.0,49.0,45,-9.0,-5.0
+8,Science,SCI813,Makes efforts to protect environment,38.0,44.0,44,-6.0,-6.0
